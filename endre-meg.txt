@@ -1,5 +1,5 @@
 Dette er en tekstfil
 
-conflict
+1
 
 Hilsen Jon
